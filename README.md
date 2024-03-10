@@ -1,2 +1,6 @@
 # Home-Automation-Using-iOT
 Home Automation Using iOT
+
+Control the intensity of bulb and fan at different levels by making use of IoT devices through various input methods such as voice using google assistant, slide bar using ubidots and based on our gesture with the help of an accelerometer which in turn helps avoid unnecessary wastage of power. The motivation of our system is to take care of several home appliances that may normally be hard for those who are visually/physically handicapped and old aged people to become self-regulating. It helps the user to control the electronic devices using his/her smartphone for voice and slide bar technique. This project also includes a smart watch which helps in controlling the intensities of devices taking hand gestures as input. This system is designed to be low cost and allowing a variety of specially challenged people, such as a dumb person can make use of slide bar/gesture technique, visually/physically handicapped can make use of voice technique to control devices right from there place.
+
+Project Link - https://youtu.be/fodG0XS4YaA
